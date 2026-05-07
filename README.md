@@ -40,7 +40,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,react_native,js,python,mysql,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,expo,js,python,mysql,html,css,git,vscode" />
 </p>
 
 
