@@ -24,11 +24,11 @@
 
 🚀 Desenvolvimento focado em back-end moderno e escalável:
 
+- ☕ Java — aplicações robustas e orientadas a objetos
 - 🟦 TypeScript — desenvolvimento tipado para maior segurança e organização
 - 🟩 Node.js — construção de APIs e sistemas server-side
 - ⚡ JavaScript — aplicações web dinâmicas
 - 🐍 Python — automações e scripts
-- 🐘 PHP — desenvolvimento web
 - 🗄️ MySQL — banco de dados relacional
 
 📌 Utilizo TypeScript no desenvolvimento de aplicações escaláveis e Node.js para criação de APIs robustas e eficientes
