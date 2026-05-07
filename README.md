@@ -12,21 +12,11 @@
 
 ---
 
-## 👀 Visitas no perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MszDev&color=blue" />
-</p>
-
----
-
 ## 🧠 Sobre mim
 
 - 🎓 Bacharelado em Engenharia de Software (Uninter)
-- 🔥 Estudo até entender de verdade
 - 🏗️ Construindo projetos reais
 - 💡 Foco em back-end e automação
-- 📈 Evoluindo todos os dias como desenvolvedor
 
 ---
 
@@ -48,46 +38,8 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,js,python,php,mysql,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,js,python,mysql,html,css,git,vscode" />
 </p>
-
----
-
-## 🚀 Projetos em destaque
-
-🔐 **53 Barber**
-- Sistema completo de agendamento
-- Integração com banco de dados
-- Autenticação e validação
-- Deploy realizado
-
-🏢 **SIGO - Sistema Integrado de Gestão Operacional**
-- Gestão de funcionários e unidades
-- Sistema hierárquico (Admin, Moderador, Usuário)
-- Mensagens internas e relatórios
-
-🛒 **Loja Virtual de Roupas**
-- Carrinho de compras
-- Confirmação de pedidos
-- Interface amigável
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MszDev&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak (consistência)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MszDev&theme=tokyonight](https://streak-stats.demolab.com?user=MszDev&theme=tokyonight&cache_seconds=1" />
-</p>
-
----
 
 
 ## 🌐 Contato
