@@ -27,6 +27,8 @@
 - ☕ Java — aplicações robustas e orientadas a objetos
 - 🟦 TypeScript — desenvolvimento tipado para maior segurança e organização
 - 🟩 Node.js — construção de APIs e sistemas server-side
+- ⚛️ React — interfaces modernas e dinâmicas para aplicações web
+- 📱 React Native — desenvolvimento de aplicativos mobile multiplataforma
 - ⚡ JavaScript — aplicações web dinâmicas
 - 🐍 Python — automações e scripts
 - 🗄️ MySQL — banco de dados relacional
@@ -38,7 +40,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,js,python,mysql,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,reactnative,js,python,mysql,html,css,git,vscode" />
 </p>
 
 
